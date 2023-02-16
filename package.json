@@ -1,0 +1,27 @@
+{
+  "name": "google-contacts-vanillajs-clone",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepkdasari143/Google-Contacts-VanillaJS-Clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeepkdasari143/Google-Contacts-VanillaJS-Clone/issues"
+  },
+  "homepage": "https://github.com/sandeepkdasari143/Google-Contacts-VanillaJS-Clone#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "parcel": "^2.8.3"
+  }
+}
