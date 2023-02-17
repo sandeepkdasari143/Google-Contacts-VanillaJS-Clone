@@ -1,1 +1,1 @@
-{"mappings":"AAAA","sources":["src/scss/style.scss"],"sourcesContent":["body{\r\n    background-color: aqua;\r\n    color: coral;\r\n}"],"names":[],"version":3,"file":"index.e8265c92.css.map","sourceRoot":"/__parcel_source_root/"}
+{"mappings":"","sources":["src/scss/style.scss"],"sourcesContent":["body{\r\n}"],"names":[],"version":3,"file":"index.e8265c92.css.map","sourceRoot":"/__parcel_source_root/"}

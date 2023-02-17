@@ -1,1 +1,1 @@
-{"mappings":"AAAA","sources":["src/scss/global.scss"],"sourcesContent":["*::after,\r\n*,\r\n*::before{\r\n    margin: 0;\r\n    padding: 0;\r\n    box-sizing: border-box;\r\n}"],"names":[],"version":3,"file":"index.1acf32eb.css.map","sourceRoot":"/__parcel_source_root/"}
+{"mappings":"AAAA","sources":["src/scss/global.scss"],"sourcesContent":["*::after,\r\n*,\r\n*::before{\r\n    margin: 0;\r\n    padding: 0;\r\n    box-sizing: border-box;\r\n    font-family: 'Roboto';\r\n}"],"names":[],"version":3,"file":"index.1acf32eb.css.map","sourceRoot":"/__parcel_source_root/"}
